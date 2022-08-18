@@ -4,5 +4,8 @@ def main():
     print('some new stuff')
 
 
+def login():
+    print("login")
+
 if __name__ == '__main__':
     main()
