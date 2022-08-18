@@ -1,7 +1,7 @@
 def main():
-    print('git training with yoni')
+    print('git training')
     print('plovvv')
-    print
+    print('some new stuff')
 
 
 if __name__ == '__main__':
